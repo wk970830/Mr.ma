@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "新城上坤樾山美墅",
+    "price": 12,
+    "hot": 198,
+    "img": "img/01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "中环国际",
+    "price": 129,
+    "hot": 25,
+    "img": "img/02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "卓越维港",
+    "price": 1000,
+    "hot": 568,
+    "img": "img/03.jpg"
+  },
+  {
+    "id": 4,
+    "title": "一品漫城",
+    "price": 1895,
+    "hot": 20000,
+    "img": "img/04.png"
+  },
+  {
+    "id": 5,
+    "title": "尚海郦景",
+    "price": 3587,
+    "hot": 1032654,
+    "img": "img/05.png"
+  },
+  {
+    "id": 6,
+    "title": "锦沧花园",
+    "price": 992,
+    "hot": 1,
+    "img": "img/06.jpg"
+  },
+  {
+    "id": 7,
+    "title": "大华碧云天",
+    "price": 564,
+    "hot": 400,
+    "img": "img/07.png"
+  },
+  {
+    "id": 8,
+    "title": "上虹桥正荣府",
+    "price": 420,
+    "hot": 240,
+    "img": "img/08.jpg"
+  }
+]
